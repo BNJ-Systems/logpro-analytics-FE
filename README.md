@@ -1,1 +1,1 @@
-# front-end
+# logpro-analytics-fe
